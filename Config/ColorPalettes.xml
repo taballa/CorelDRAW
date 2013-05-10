@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<palettes>
+
+  <defaultList region="default">
+    <palette guid="e9f069a3-b423-139d-4bed-4757f1b8668a" newForVersion="15"/> <!-- Dynamic -->
+	  <palette guid="cccd19cb-4675-4a5e-8bda-d0bbbaab8af0"/> <!-- Default CMYK -->
+	  <palette guid="8273965b-a0fd-4e34-a5c2-a29720146cc3"/> <!-- Default RGB -->
+	  <palette guid="b03497b6-c898-4f08-903d-12d9e8f72455" newForVersion="15"/> <!-- Pantone Goe Coated -->
+	  <palette guid="18359aaa-a0c2-4133-b85b-4ecd514c7dae" newForVersion="15"/> <!-- Pantone Home + Fashion -->
+	  <palette guid="8bedc0c4-7214-4d22-a20b-8c56b4af4f35"/> <!-- Truematch -->
+  </defaultList>
+
+  <defaultList region="Asia">
+    <palette guid="e9f069a3-b423-139d-4bed-4757f1b8668a" newForVersion="15"/> <!-- Dynamic -->
+	  <palette guid="cccd19cb-4675-4a5e-8bda-d0bbbaab8af0"/> <!-- Default CMYK -->
+	  <palette guid="8273965b-a0fd-4e34-a5c2-a29720146cc3"/> <!-- Default RGB -->
+	  <palette guid="b03497b6-c898-4f08-903d-12d9e8f72455" newForVersion="15"/> <!-- Pantone Goe Coated -->
+	  <palette guid="18359aaa-a0c2-4133-b85b-4ecd514c7dae" newForVersion="15"/> <!-- Pantone Home + Fashion -->
+	  <palette guid="6a468b8c-83df-490a-b49b-672301d2ab94"/> <!-- DIC -->
+	  <palette guid="e3dd9dda-1adf-4581-ab83-c3ee90f17177"/> <!-- TOYO -->
+  </defaultList>
+
+  <defaultList region="EuropeMiddleEast">
+    <palette guid="e9f069a3-b423-139d-4bed-4757f1b8668a" newForVersion="15"/> <!-- Dynamic -->
+	  <palette guid="cccd19cb-4675-4a5e-8bda-d0bbbaab8af0"/> <!-- Default CMYK -->
+	  <palette guid="8273965b-a0fd-4e34-a5c2-a29720146cc3"/> <!-- Default RGB -->
+	  <palette guid="b03497b6-c898-4f08-903d-12d9e8f72455" newForVersion="15"/> <!-- Pantone Goe Coated -->
+	  <palette guid="18359aaa-a0c2-4133-b85b-4ecd514c7dae" newForVersion="15"/> <!-- Pantone Home + Fashion -->
+	  <palette guid="6b8f3948-4fed-43df-a9c4-69c8ef0cd459"/> <!-- HKS -->
+	  <palette guid="d7aff84f-8ab7-4f36-b241-5c40cc4c0575"/> <!-- Focoltone -->
+  </defaultList>
+
+  <regions>
+    <region name="Asia">
+      <geoID ID="0xD7"/> <!-- Singapore -->
+      <geoID ID="0x86"/> <!-- Korea -->
+      <geoID ID="0x83"/> <!-- North Korea -->
+      <geoID ID="0x7A"/> <!-- Japan -->
+      <geoID ID="0xE3"/> <!-- Thailand -->
+      <geoID ID="0xED"/> <!-- Taiwan -->
+      <geoID ID="0x6F"/> <!-- Indonesia -->
+      <geoID ID="0x68"/> <!-- Hong Kong -->
+      <geoID ID="0x2D"/> <!-- China -->
+    </region>
+    
+    <region name="EuropeMiddleEast">
+      <geoID ID="0xF2"/> <!-- United Kingdom -->
+      <geoID ID="0xF1"/> <!-- Ukraine -->
+      <geoID ID="0xEB"/> <!-- Turkey -->
+      <geoID ID="0xCD"/> <!-- Saudi Arabia -->
+      <geoID ID="0xE"/>  <!-- Austria -->
+      <geoID ID="0x1B"/> <!-- Belgium -->
+      <geoID ID="0x1D"/> <!-- Belarus -->
+      <geoID ID="0x23"/> <!-- Bulgaria -->
+      <geoID ID="0x3B"/> <!-- Cyprus -->
+      <geoID ID="0x3D"/> <!-- Denmark -->
+      <geoID ID="0x43"/> <!-- Egypt -->
+      <geoID ID="0x44"/> <!-- Ireland -->
+      <geoID ID="0x45"/> <!-- Equatorial Guinea -->
+      <geoID ID="0x46"/> <!-- Estonia -->
+      <geoID ID="0x4B"/> <!-- Czech Republic -->
+      <geoID ID="0x4D"/> <!-- Finland -->
+      <geoID ID="0x54"/> <!-- France -->
+      <geoID ID="0x5E"/> <!-- Germany -->
+      <geoID ID="0x62"/> <!-- Greece -->
+      <geoID ID="0x6C"/> <!-- Croatia -->
+      <geoID ID="0x6D"/> <!-- Hungary -->
+      <geoID ID="0x6E"/> <!-- Iceland -->
+      <geoID ID="0x71"/> <!-- India -->
+      <geoID ID="0x74"/> <!-- Iran -->
+      <geoID ID="0x75"/> <!-- Israel -->
+      <geoID ID="0x76"/> <!-- Italy -->
+      <geoID ID="0x79"/> <!-- Iraq -->
+      <geoID ID="0x7E"/> <!-- Jordan -->
+      <geoID ID="0x8C"/> <!-- Latvia -->
+      <geoID ID="0x8D"/> <!-- Lithuania -->
+      <geoID ID="0x8F"/> <!-- Slovakia -->
+      <geoID ID="0x93"/> <!-- Luxembourg -->
+      <geoID ID="0xB0"/> <!-- Netherlands -->
+      <geoID ID="0xBF"/> <!-- Poland -->
+      <geoID ID="0xC1"/> <!-- Portugal -->
+      <geoID ID="0xC5"/> <!-- Qatar -->
+      <geoID ID="0xC8"/> <!-- Romania -->
+      <geoID ID="0xCB"/> <!-- Russia -->
+      <geoID ID="0xD9"/> <!-- Spain -->
+      <geoID ID="0xDD"/> <!-- Sweden -->
+      <geoID ID="0xDF"/> <!-- Switzerland -->
+      <geoID ID="0xE0"/> <!-- United Arab Emirates -->
+      <geoID ID="0x10D"/> <!-- Serbia -->
+    </region>    
+  </regions>
+  
+</palettes>

@@ -1,0 +1,377 @@
+<?xml version="1.0"?>
+<QuickCorrectSetting CaptilizeFirstLetter="false" ChangeStraightQuotes="true" CorrectTwoInitial="true" CapitalizeDayName="true" AutoHyperLink="true" DialogLang="">
+	<QCorrectReplaceWith>
+		<language langID="ENU"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="BEL"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="BGR"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="CSY"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="DAN"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="ETI"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="DEA"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="DEU"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="DEI"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="DEL"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="DES"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="ISL"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="LVI"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="LTH"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="RUS"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="SRL"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="SRB"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="SKY"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="SLV"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="UKR"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="AFK"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="HRV"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="NLB"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="NLD"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="HUN"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="NOR"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="NON"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="PLK"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="RON"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="FIN"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="SVF"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="SVE"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="CAT"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="ZHH"><ReplaceTextWhileTyping set="true"/><StraightQuotesForNumber set="false"/></language>
+		<language langID="ZHM"><ReplaceTextWhileTyping set="true"/><StraightQuotesForNumber set="false"/></language>
+		<language langID="CHC"><ReplaceTextWhileTyping set="true"/><StraightQuotesForNumber set="false"/></language>
+		<language langID="ZHI"><ReplaceTextWhileTyping set="true"/><StraightQuotesForNumber set="false"/></language>
+		<language langID="CHW"><ReplaceTextWhileTyping set="true"/><StraightQuotesForNumber set="false"/></language>
+		<language langID="CHT"><ReplaceTextWhileTyping set="true"/><StraightQuotesForNumber set="false"/></language>
+		<language langID="CHS"><ReplaceTextWhileTyping set="true"/><StraightQuotesForNumber set="false"/></language>
+		<language langID="ENB"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="ENC"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="ENN"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="ENI"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="ENJ"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="ENZ"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="ENP"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="ENS"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="ENT"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="ENG"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="ENW"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="FRB"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="FRC"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="FRA"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="HEB"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="SQL"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="ARG"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="ARU"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="ARE"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="ARI"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="ARJ"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="ARK"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="ARB"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="ARL"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="ARM"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="ARO"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="ARQ"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="ARA"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="ARS"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="ART"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="ARY"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="AZC"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="AZL"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="EUQ"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="ENA"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="FOS"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="FAI"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="FRL"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="FRM"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="FRS"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="GLC"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="ELL"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="IND"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="ITA"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="ITS"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="JPN"><ReplaceTextWhileTyping set="true"/><StraightQuotesForNumber set="false"/></language>
+		<language langID="KKZ"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="KOR"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="KYR"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="MKI"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="MSB"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="MSL"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="MON"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="PTB"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="PTG"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="ESS"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="ESB"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="ESL"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="ESO"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="ESC"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="ESF"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="ESE"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="ESD"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="ESG"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="ESH"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="ESM"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="ESI"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="ESA"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="ESZ"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="ESR"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="ESU"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="ESN"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="ESY"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="ESV"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="SWK"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="TTT"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="THA"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="TRK"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="URD"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="UZC"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="UZL"><ReplaceTextWhileTyping set="true"/></language>
+		<language langID="VIT"><ReplaceTextWhileTyping set="true"/></language>
+	</QCorrectReplaceWith>
+	<QCorrectSingleQuotes>
+		<language langID="ENU"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="BEL"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="BGR"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="CSY"><ChangeStraightQuotes set="true"/><SingleQuote open="‚" close="’"/></language>
+		<language langID="DAN"><ChangeStraightQuotes set="true"/><SingleQuote open="›" close="‹"/></language>
+		<language langID="ETI"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="DEA"><ChangeStraightQuotes set="true"/><SingleQuote open="‚" close="‘"/></language>
+		<language langID="DEU"><ChangeStraightQuotes set="true"/><SingleQuote open="‚" close="‘"/></language>
+		<language langID="DEI"><ChangeStraightQuotes set="true"/><SingleQuote open="‚" close="‘"/></language>
+		<language langID="DEL"><ChangeStraightQuotes set="true"/><SingleQuote open="‚" close="‘"/></language>
+		<language langID="DES"><ChangeStraightQuotes set="true"/><SingleQuote open="‹" close="›"/></language>
+		<language langID="ISL"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="LVI"><ChangeStraightQuotes set="true"/><SingleQuote open="’" close="’"/></language>
+		<language langID="LTH"><ChangeStraightQuotes set="true"/><SingleQuote open="‚" close="’"/></language>
+		<language langID="RUS"><ChangeStraightQuotes set="true"/><SingleQuote open="’" close="’"/></language>
+		<language langID="SRL"><ChangeStraightQuotes set="true"/><SingleQuote open="‚" close="’"/></language>
+		<language langID="SRB"><ChangeStraightQuotes set="true"/><SingleQuote open="‚" close="’"/></language>
+		<language langID="SKY"><ChangeStraightQuotes set="true"/><SingleQuote open="‚" close="’"/></language>
+		<language langID="SLV"><ChangeStraightQuotes set="true"/><SingleQuote open="‚" close="’"/></language>
+		<language langID="UKR"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="AFK"><ChangeStraightQuotes set="true"/><SingleQuote open="‚" close="‛"/></language>
+		<language langID="HRV"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="NLB"><ChangeStraightQuotes set="true"/><SingleQuote open="‚" close="’"/></language>
+		<language langID="NLD"><ChangeStraightQuotes set="true"/><SingleQuote open="‚" close="’"/></language>
+		<language langID="HUN"><ChangeStraightQuotes set="true"/><SingleQuote open="’" close="’"/></language>
+		<language langID="NOR"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="NON"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="PLK"><ChangeStraightQuotes set="true"/><SingleQuote open="‚" close="’"/></language>
+		<language langID="RON"><ChangeStraightQuotes set="true"/><SingleQuote open="’" close="’"/></language>
+		<language langID="FIN"><ChangeStraightQuotes set="true"/><SingleQuote open="’" close="’"/></language>
+		<language langID="SVF"><ChangeStraightQuotes set="true"/><SingleQuote open="’" close="’"/></language>
+		<language langID="SVE"><ChangeStraightQuotes set="true"/><SingleQuote open="’" close="’"/></language>
+		<language langID="CAT"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="ZHH"><ChangeStraightQuotes set="false"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="ZHM"><ChangeStraightQuotes set="false"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="CHC"><ChangeStraightQuotes set="false"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="ZHI"><ChangeStraightQuotes set="false"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="CHW"><ChangeStraightQuotes set="false"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="CHT"><ChangeStraightQuotes set="false"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="CHS"><ChangeStraightQuotes set="false"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="ENB"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="ENC"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="ENN"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="ENI"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="ENJ"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="ENZ"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="ENP"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="ENS"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="ENT"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="ENG"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="ENW"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="FRB"><ChangeStraightQuotes set="true"/><SingleQuote open=" ‘" close=" ’"/></language>
+		<language langID="FRC"><ChangeStraightQuotes set="true"/><SingleQuote open=" ‘" close=" ’"/></language>
+		<language langID="FRA"><ChangeStraightQuotes set="true"/><SingleQuote open=" ‘" close=" ’"/></language>
+		<language langID="HEB"><ChangeStraightQuotes set="true"/><SingleQuote open="’" close="’"/></language>
+		<language langID="SQL"><ChangeStraightQuotes set="true"/><SingleQuote open="‹" close="›"/></language>
+		<language langID="ARG"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="ARU"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="ARE"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="ARI"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="ARJ"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="ARK"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="ARB"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="ARL"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="ARM"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="ARO"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="ARQ"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="ARA"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="ARS"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="ART"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="ARY"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="AZC"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="AZL"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="EUQ"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="ENA"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="FOS"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="FAI"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="FRL"><ChangeStraightQuotes set="true"/><SingleQuote open=" ‘" close=" ’"/></language>
+		<language langID="FRM"><ChangeStraightQuotes set="true"/><SingleQuote open=" ‘" close=" ’"/></language>
+		<language langID="FRS"><ChangeStraightQuotes set="true"/><SingleQuote open="‹" close="›"/></language>
+		<language langID="GLC"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="ELL"><ChangeStraightQuotes set="true"/><SingleQuote open="‹" close="›"/></language>
+		<language langID="IND"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="ITA"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="ITS"><ChangeStraightQuotes set="true"/><SingleQuote open="‹" close="›"/></language>
+		<language langID="JPN"><ChangeStraightQuotes set="false"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="KKZ"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="KOR"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="KYR"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="MKI"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="MSB"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="MSL"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="MON"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="PTB"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="PTG"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="ESS"><ChangeStraightQuotes set="true"/><SingleQuote open="’" close="’"/></language>
+		<language langID="ESB"><ChangeStraightQuotes set="true"/><SingleQuote open="’" close="’"/></language>
+		<language langID="ESL"><ChangeStraightQuotes set="true"/><SingleQuote open="’" close="’"/></language>
+		<language langID="ESO"><ChangeStraightQuotes set="true"/><SingleQuote open="’" close="’"/></language>
+		<language langID="ESC"><ChangeStraightQuotes set="true"/><SingleQuote open="’" close="’"/></language>
+		<language langID="ESF"><ChangeStraightQuotes set="true"/><SingleQuote open="’" close="’"/></language>
+		<language langID="ESE"><ChangeStraightQuotes set="true"/><SingleQuote open="’" close="’"/></language>
+		<language langID="ESD"><ChangeStraightQuotes set="true"/><SingleQuote open="’" close="’"/></language>
+		<language langID="ESG"><ChangeStraightQuotes set="true"/><SingleQuote open="’" close="’"/></language>
+		<language langID="ESH"><ChangeStraightQuotes set="true"/><SingleQuote open="’" close="’"/></language>
+		<language langID="ESM"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="ESI"><ChangeStraightQuotes set="true"/><SingleQuote open="’" close="’"/></language>
+		<language langID="ESA"><ChangeStraightQuotes set="true"/><SingleQuote open="’" close="’"/></language>
+		<language langID="ESZ"><ChangeStraightQuotes set="true"/><SingleQuote open="’" close="’"/></language>
+		<language langID="ESR"><ChangeStraightQuotes set="true"/><SingleQuote open="’" close="’"/></language>
+		<language langID="ESU"><ChangeStraightQuotes set="true"/><SingleQuote open="’" close="’"/></language>
+		<language langID="ESN"><ChangeStraightQuotes set="true"/><SingleQuote open="’" close="’"/></language>
+		<language langID="ESY"><ChangeStraightQuotes set="true"/><SingleQuote open="’" close="’"/></language>
+		<language langID="ESV"><ChangeStraightQuotes set="true"/><SingleQuote open="’" close="’"/></language>
+		<language langID="SWK"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="TTT"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="THA"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="TRK"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="URD"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="UZC"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="UZL"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="VIT"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+		<language langID="HRV"><ChangeStraightQuotes set="true"/><SingleQuote open="‘" close="’"/></language>
+	</QCorrectSingleQuotes>
+	<QCorrectDoubleQuotes>
+		<language langID="ENU"><DoubleQuote open="“" close="”"/></language>
+		<language langID="BEL"><DoubleQuote open="«" close="»"/></language>
+		<language langID="BGR"><DoubleQuote open="„" close="“"/></language>
+		<language langID="CSY"><DoubleQuote open="„" close="”"/></language>
+		<language langID="DAN"><DoubleQuote open="«" close="»"/></language>
+		<language langID="ETI"><DoubleQuote open="„" close="”"/></language>
+		<language langID="DEA"><DoubleQuote open="„" close="”"/></language>
+		<language langID="DEU"><DoubleQuote open="„" close="“"/></language>
+		<language langID="DEI"><DoubleQuote open="„" close="“"/></language>
+		<language langID="DEL"><DoubleQuote open="„" close="”"/></language>
+		<language langID="DES"><DoubleQuote open="«" close="»"/></language>
+		<language langID="ISL"><DoubleQuote open="„" close="“"/></language>
+		<language langID="LVI"><DoubleQuote open="«" close="»"/></language>
+		<language langID="LTH"><DoubleQuote open="„" close="“"/></language>
+		<language langID="RUS"><DoubleQuote open="«" close="»"/></language>
+		<language langID="SRB"><DoubleQuote open="„" close="“"/></language>
+		<language langID="SRL"><DoubleQuote open="„" close="“"/></language>
+		<language langID="SKY"><DoubleQuote open="„" close="“"/></language>
+		<language langID="SLV"><DoubleQuote open="„" close="“"/></language>
+		<language langID="UKR"><DoubleQuote open="«" close="»"/></language>
+		<language langID="AFK"><DoubleQuote open="„" close="“"/></language>
+		<language langID="HRV"><DoubleQuote open="«" close="»"/></language>
+		<language langID="NLB"><DoubleQuote open="„" close="“"/></language>
+		<language langID="NLD"><DoubleQuote open="„" close="“"/></language>
+		<language langID="HUN"><DoubleQuote open="„" close="”"/></language>
+		<language langID="NOR"><DoubleQuote open="«" close="»"/></language>
+		<language langID="NON"><DoubleQuote open="«" close="»"/></language>
+		<language langID="PLK"><DoubleQuote open="„" close="”"/></language>
+		<language langID="RON"><DoubleQuote open="„" close="“"/></language>
+		<language langID="FIN"><DoubleQuote open="”" close="”"/></language>
+		<language langID="SVF"><DoubleQuote open="”" close="”"/></language>
+		<language langID="SVE"><DoubleQuote open="”" close="”"/></language>
+		<language langID="CAT"><DoubleQuote open="«" close="»"/></language>
+		<language langID="ZHH"><DoubleQuote open="“" close="”"/></language>
+		<language langID="ZHM"><DoubleQuote open="“" close="”"/></language>
+		<language langID="CHC"><DoubleQuote open="“" close="”"/></language>
+		<language langID="ZHI"><DoubleQuote open="“" close="”"/></language>
+		<language langID="CHW"><DoubleQuote open="“" close="”"/></language>
+		<language langID="CHT"><DoubleQuote open="“" close="”"/></language>
+		<language langID="CHS"><DoubleQuote open="“" close="”"/></language>
+		<language langID="ENB"><DoubleQuote open="“" close="”"/></language>
+		<language langID="ENC"><DoubleQuote open="“" close="”"/></language>
+		<language langID="ENN"><DoubleQuote open="“" close="”"/></language>
+		<language langID="ENI"><DoubleQuote open="“" close="”"/></language>
+		<language langID="ENJ"><DoubleQuote open="“" close="”"/></language>
+		<language langID="ENZ"><DoubleQuote open="“" close="”"/></language>
+		<language langID="ENP"><DoubleQuote open="“" close="”"/></language>
+		<language langID="ENS"><DoubleQuote open="“" close="”"/></language>
+		<language langID="ENT"><DoubleQuote open="“" close="”"/></language>
+		<language langID="ENG"><DoubleQuote open="“" close="”"/></language>
+		<language langID="ENW"><DoubleQuote open="“" close="”"/></language>
+		<language langID="FRA"><DoubleQuote open="« " close=" »"/></language>
+		<language langID="HEB"><DoubleQuote open="“" close="”"/></language>
+		<language langID="SQL"><DoubleQuote open="«" close="»"/></language>
+		<language langID="ENA"><DoubleQuote open="“" close="”"/></language>
+		<language langID="FRB"><DoubleQuote open="« " close=" »"/></language>
+		<language langID="FRC"><DoubleQuote open="« " close=" "/></language>
+		<language langID="FRL"><DoubleQuote open="« " close=" »"/></language>
+		<language langID="FRM"><DoubleQuote open="« " close=" »"/></language>
+		<language langID="FRS"><DoubleQuote open="«" close="»"/></language>
+		<language langID="ELL"><DoubleQuote open="«" close="»"/></language>
+		<language langID="ITA"><DoubleQuote open="«" close="»"/></language>
+		<language langID="ITS"><DoubleQuote open="«" close="»"/></language>
+		<language langID="JPN"><DoubleQuote open="“" close="”"/></language>
+		<language langID="PTB"><DoubleQuote open="«" close="»"/></language>
+		<language langID="PTG"><DoubleQuote open="«" close="»"/></language>
+		<language langID="ESV"><DoubleQuote open="“" close="”"/></language>
+		<language langID="ESY"><DoubleQuote open="“" close="”"/></language>
+		<language langID="ESN"><DoubleQuote open="“" close="”"/></language>
+		<language langID="ESU"><DoubleQuote open="“" close="”"/></language>
+		<language langID="ESR"><DoubleQuote open="“" close="”"/></language>
+		<language langID="ESZ"><DoubleQuote open="“" close="”"/></language>
+		<language langID="ESA"><DoubleQuote open="“" close="”"/></language>
+		<language langID="ESI"><DoubleQuote open="“" close="”"/></language>
+		<language langID="ESM"><DoubleQuote open="“" close="”"/></language>
+		<language langID="ESH"><DoubleQuote open="“" close="”"/></language>
+		<language langID="ESG"><DoubleQuote open="“" close="”"/></language>
+		<language langID="ESE"><DoubleQuote open="“" close="”"/></language>
+		<language langID="ESF"><DoubleQuote open="“" close="”"/></language>
+		<language langID="ESD"><DoubleQuote open="“" close="”"/></language>
+		<language langID="ESC"><DoubleQuote open="“" close="”"/></language>
+		<language langID="ESO"><DoubleQuote open="“" close="”"/></language>
+		<language langID="ESL"><DoubleQuote open="“" close="”"/></language>
+		<language langID="ESB"><DoubleQuote open="“" close="”"/></language>
+		<language langID="ESS"><DoubleQuote open="“" close="”"/></language>
+		<language langID="TRK"><DoubleQuote open="“" close="”"/></language>
+		<language langID="ARG"><DoubleQuote open="“" close="”"/></language>
+		<language langID="ARU"><DoubleQuote open="“" close="”"/></language>
+		<language langID="ARE"><DoubleQuote open="“" close="”"/></language>
+		<language langID="ARI"><DoubleQuote open="“" close="”"/></language>
+		<language langID="ARJ"><DoubleQuote open="“" close="”"/></language>
+		<language langID="ARW"><DoubleQuote open="“" close="”"/></language>
+		<language langID="ARB"><DoubleQuote open="“" close="”"/></language>
+		<language langID="ARL"><DoubleQuote open="“" close="”"/></language>
+		<language langID="ARM"><DoubleQuote open="“" close="”"/></language>
+		<language langID="ARO"><DoubleQuote open="“" close="”"/></language>
+		<language langID="ARQ"><DoubleQuote open="“" close="”"/></language>
+		<language langID="ARA"><DoubleQuote open="“" close="”"/></language>
+		<language langID="ARS"><DoubleQuote open="“" close="”"/></language>
+		<language langID="ART"><DoubleQuote open="“" close="”"/></language>
+		<language langID="ARY"><DoubleQuote open="“" close="”"/></language>
+		<language langID="AZC"><DoubleQuote open="“" close="”"/></language>
+		<language langID="AZL"><DoubleQuote open="“" close="”"/></language>
+		<language langID="EUQ"><DoubleQuote open="“" close="”"/></language>
+		<language langID="FOS"><DoubleQuote open="“" close="”"/></language>
+		<language langID="FAI"><DoubleQuote open="“" close="”"/></language>
+		<language langID="GLC"><DoubleQuote open="“" close="”"/></language>
+		<language langID="IND"><DoubleQuote open="“" close="”"/></language>
+		<language langID="KKZ"><DoubleQuote open="“" close="”"/></language>
+		<language langID="KOR"><DoubleQuote open="“" close="”"/></language>
+		<language langID="KYR"><DoubleQuote open="“" close="”"/></language>
+		<language langID="MKI"><DoubleQuote open="“" close="”"/></language>
+		<language langID="MSB"><DoubleQuote open="“" close="”"/></language>
+		<language langID="MSL"><DoubleQuote open="“" close="”"/></language>
+		<language langID="MON"><DoubleQuote open="“" close="”"/></language>
+		<language langID="SWK"><DoubleQuote open="“" close="”"/></language>
+		<language langID="TTT"><DoubleQuote open="“" close="”"/></language>
+		<language langID="THA"><DoubleQuote open="“" close="”"/></language>
+		<language langID="URD"><DoubleQuote open="“" close="”"/></language>
+		<language langID="UZC"><DoubleQuote open="“" close="”"/></language>
+		<language langID="UZL"><DoubleQuote open="“" close="”"/></language>
+		<language langID="VIT"><DoubleQuote open="“" close="”"/></language>
+		<language langID="ARK"><DoubleQuote open="“" close="”"/></language>
+	</QCorrectDoubleQuotes>
+</QuickCorrectSetting>

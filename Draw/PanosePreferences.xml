@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<panosePreferences showPanoseDialog="true" fontMatchingMode="1">
+	<defaultPanoseFont name="Arial" charSet="0" weight="64"/>
+	<exceptionList></exceptionList>
+</panosePreferences>

@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uiConfig>
+	<applicationInfo name="Corel Print Preview" framework="CdrPrn" version="16" userConfiguration="true" localizedLang="CS"/>
+	<userData/>
+	<Addons><new_element installFile="c:\program files\corel\coreldraw graphics suite x6\programs\addons\x6-ir1\userdraw.xslt"/><new_element installFile="c:\program files\corel\coreldraw graphics suite x6\programs\addons\x6-ir1\userpp.xslt"/></Addons><frame lockToolbars="true">
+		<dockBar position="top">
+			<cmdBarLane>
+				<commandBar guidRef="f3016f3c-2847-4557-b61a-a2d05319cf18" visible="true"/>
+			</cmdBarLane>
+			<cmdBarLane>
+				<commandBar guidRef="a2c34f83-8eda-45d9-9b69-9880d7e30fca" visible="true"/>
+			</cmdBarLane>
+			<cmdBarLane>
+				<commandBar guidRef="4b79ba0b-1180-4f97-909d-0c3af9ca0231" visible="true"/>
+			</cmdBarLane>
+		</dockBar>
+		<dockBar position="bottom">
+			<cmdBarLane>
+				<commandBar guidRef="8dd1c11e-7a20-4c92-b635-4b1ef0073493" visible="true"/>
+			</cmdBarLane>
+		</dockBar>
+		<dockBar position="left">
+			<cmdBarLane>
+				<commandBar guidRef="16b90a40-7207-44ad-a96e-40ba78db1684" visible="true"/>
+			</cmdBarLane>
+		</dockBar>
+		<dockBar position="right"/>
+		<dockBar position="float"/>
+	</frame>
+	<commandBars><commandBarData guid="f3016f3c-2847-4557-b61a-a2d05319cf18"><container>
+				<events>
+					<onModeSwitch>
+						<action name="default"/>
+					</onModeSwitch>
+				</events>
+				<container modeID="102f1f9a-b306-43aa-8225-016c49c5d628">
+					<item guidRef="77e84f1c-6596-4408-b031-b78f280868fb"/>
+					<item guidRef="c47737d2-6ff2-48e5-bd95-40550f732f94"/>
+					<item guidRef="4f5fcab2-08f7-4fd9-86a5-ec13336e5c89"/>
+					<item guidRef="f2402968-a405-4ddf-9829-76a68dae9138"/>
+				</container>
+				<container modeID="7b1dc50a-77af-43ba-a743-a0f81b5a5065">
+					<item guidRef="d49be900-e02a-41ef-a552-a5ea184ad630"/>
+					<item guidRef="c47737d2-6ff2-48e5-bd95-40550f732f94"/>
+					<item guidRef="f2402968-a405-4ddf-9829-76a68dae9138"/>
+				</container>
+			</container>
+		</commandBarData><commandBarData guid="a2c34f83-8eda-45d9-9b69-9880d7e30fca"><container>
+				<item guidRef="8c00a0a2-a72a-47a9-be1b-6f6791b1c755"/>
+				<item guidRef="f5de648c-9647-49bf-99f0-80d1b46944a4"/>
+				<item guidRef="b9b3d5d2-0669-41aa-a9ed-86b43412e98c"/>
+				<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+				<item guidRef="2d217b5b-1948-40c7-b490-2928dacf1879"/>
+				<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+				<item guidRef="758bf39c-c3fe-4fd5-9c64-69cad901d027"/>
+				<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+				<item guidRef="7772f06b-7e86-4b75-ba98-fd50d548e7b4"/>
+				<item guidRef="42529fe9-865c-4257-9e0c-94d0a4dd7606"/>
+				<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+				<item guidRef="04e2847a-fe57-4d64-80ac-de1333d4fa72"/>
+				<item guidRef="3fb67986-90af-4ffb-bbf7-4378240c2180"/>
+				<item guidRef="f5d99e1d-43b6-4d18-b73b-26329ab8a7a4"/>
+				<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+				<item guidRef="0f4881ab-e457-450d-88d9-82595d3410a4"/>
+			</container>
+		</commandBarData><commandBarData guid="4b79ba0b-1180-4f97-909d-0c3af9ca0231"><container>
+				<events>
+					<onModeSwitch>
+						<action name="default"/>
+					</onModeSwitch>
+				</events>
+				<container modeID="66f8f88a-51c4-491c-9183-1b179b940f4b">
+					<item guidRef="2ffde007-4378-40d1-8d14-87dc2f2737a8"/>
+					<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+					<item guidRef="2388904c-2662-4223-bb4d-5e5435e52dd3"/>
+					<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+					<item guidRef="200e78e5-94e4-4b37-b907-62f0b1be88db"/>
+					<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+					<item guidRef="b99b7f33-edc4-42b5-aecc-908650e6dd52"/>
+					<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+					<item guidRef="d4664004-69ff-44eb-9e88-396e30758e10"/>
+					<item guidRef="659e9c3e-7e48-4709-a1a7-283b0904f37f"/>
+					<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+					<item guidRef="bb729e2c-8bbc-4a1c-a8f0-8de788abd7fd"/>
+				</container>
+				<container modeID="6df89935-a9c2-431d-a4c5-b0a895ce86a7">
+					<item guidRef="7eba04f5-fcc0-41e7-8e23-b99cb500e1d8"/>
+					<item guidRef="62d53c5b-a5ce-47f0-8db2-34b111220844"/>
+					<item guidRef="ac5e4329-3ab9-4535-b108-7d7433fccd81"/>
+					<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+					<item guidRef="d39f0418-e452-4d83-9e42-0adcf8dfb596"/>
+					<item guidRef="c55a1021-356c-4193-aac0-d56162e8f077"/>
+					<item guidRef="7a324ff7-1899-4cf9-b71d-d87b0584080d"/>
+					<item guidRef="fb6a5d21-e846-4429-87d1-f8fc6a746dce"/>
+					<item guidRef="9a180762-8a7a-49e2-a790-d9262f72faf6"/>
+					<item guidRef="b33e9e77-ef9c-4d02-bfe2-53f80a6f0a84"/>
+					<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+					<item guidRef="f78ccd37-8d42-4e62-a921-16df789a35ff"/>
+				</container>
+				<container modeID="a5eebfc6-cd14-4fbe-9315-a5429c558542">
+					<item guidRef="63c6901a-1c25-4a14-b8aa-e7490950cbad"/>
+					<item guidRef="aab64400-d230-4a8a-822c-501c6c3d5809"/>
+					<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+					<item guidRef="80a6a5ae-5a5d-4a6f-a00e-ccbc77ab313d"/>
+					<item guidRef="8dd7fc70-a1f4-44a0-9c1c-30592ac0823a"/>
+					<item guidRef="ed3f43b4-46f8-4315-84b3-daea3d9f9060"/>
+					<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+					<item guidRef="5b91a278-941a-48e9-b401-e89c6ec70d8e"/>
+					<item guidRef="e334488e-5bde-4023-bd10-ed0d4dc099eb"/>
+					<item guidRef="aa8a91e0-d8a1-45e2-abbd-ac4316c2b917"/>
+					<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+					<item guidRef="35d938fd-dcfc-4353-a836-b43f1c3f8f0b"/>
+				</container>
+				<container modeID="ccc2807f-65dd-4fa5-8d93-3deb040d320f">
+					<item guidRef="492a04bb-c294-4da4-981e-0fe29bdf5ca9"/>
+					<item guidRef="ddb4a4e4-8e1e-4bb6-ab0c-965bf7cba694"/>
+					<item guidRef="fe119c5f-1c4d-4624-8068-287ecbe434b2"/>
+					<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+					<item guidRef="8da328db-10f9-4aa0-9d4a-977f7297e917"/>
+					<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+					<item guidRef="e7323fdd-bb89-43cc-b6d8-c2744dee93c8"/>
+					<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+					<item guidRef="f562269f-bee6-47a4-b0cd-a55d123c3e9e"/>
+					<item guidRef="0cc85376-8dd5-44cc-9e0c-c9ce503f1dac"/>
+					<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+					<item guidRef="cc8435de-f6ff-4e9b-a620-d445481d77c4"/>
+					<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+					<item guidRef="0728eb59-281c-4a24-8593-13f2673aaad5"/>
+				</container>
+				<container modeID="b54571c2-6363-4b17-84e2-0e0e278cc86d">
+					<item guidRef="492a04bb-c294-4da4-981e-0fe29bdf5ca9"/>
+					<item guidRef="ddb4a4e4-8e1e-4bb6-ab0c-965bf7cba694"/>
+					<item guidRef="fe119c5f-1c4d-4624-8068-287ecbe434b2"/>
+					<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+					<item guidRef="8da328db-10f9-4aa0-9d4a-977f7297e917"/>
+					<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+					<item guidRef="e7323fdd-bb89-43cc-b6d8-c2744dee93c8"/>
+					<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+					<item guidRef="f562269f-bee6-47a4-b0cd-a55d123c3e9e"/>
+					<item guidRef="0cc85376-8dd5-44cc-9e0c-c9ce503f1dac"/>
+					<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+					<item guidRef="cc8435de-f6ff-4e9b-a620-d445481d77c4"/>
+					<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+					<item guidRef="0728eb59-281c-4a24-8593-13f2673aaad5"/>
+					<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+					<item guidRef="f726ce8e-13bd-4786-ae51-74c7b130d578"/>
+				</container>
+				<container modeID="cc9f2a35-40e7-4894-9ab4-7076f7aa6af4">
+					<item guidRef="492a04bb-c294-4da4-981e-0fe29bdf5ca9"/>
+					<item guidRef="ddb4a4e4-8e1e-4bb6-ab0c-965bf7cba694"/>
+					<item guidRef="fe119c5f-1c4d-4624-8068-287ecbe434b2"/>
+					<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+					<item guidRef="8da328db-10f9-4aa0-9d4a-977f7297e917"/>
+					<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+					<item guidRef="e7323fdd-bb89-43cc-b6d8-c2744dee93c8"/>
+					<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+					<item guidRef="f562269f-bee6-47a4-b0cd-a55d123c3e9e"/>
+					<item guidRef="0cc85376-8dd5-44cc-9e0c-c9ce503f1dac"/>
+					<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+					<item guidRef="cc8435de-f6ff-4e9b-a620-d445481d77c4"/>
+					<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+					<item guidRef="0728eb59-281c-4a24-8593-13f2673aaad5"/>
+					<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+					<item guidRef="cab2aa7f-46c9-421f-ae70-d4eff17c69c2"/>
+				</container>
+				<container modeID="503fff94-e211-418e-8f0d-6db034286311">
+					<item guidRef="492a04bb-c294-4da4-981e-0fe29bdf5ca9"/>
+					<item guidRef="ddb4a4e4-8e1e-4bb6-ab0c-965bf7cba694"/>
+					<item guidRef="fe119c5f-1c4d-4624-8068-287ecbe434b2"/>
+					<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+					<item guidRef="8da328db-10f9-4aa0-9d4a-977f7297e917"/>
+					<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+					<item guidRef="b7369b63-63cb-429f-be62-865cc887a28c"/>
+					<item guidRef="9b66d136-c03a-4ceb-85d8-48fc95c48795"/>
+					<item guidRef="4147614a-79dc-4934-a235-2b180e7c650b"/>
+					<item guidRef="a421ae7d-b307-4810-9184-f63cdb00083d"/>
+					<item guidRef="809a45e7-24cc-4351-af4d-8291e8d4c11d"/>
+				</container>
+				<container modeID="680332d2-2c90-47ee-8b9a-5d520d4a0aa6">
+					<item guidRef="492a04bb-c294-4da4-981e-0fe29bdf5ca9"/>
+					<item guidRef="ddb4a4e4-8e1e-4bb6-ab0c-965bf7cba694"/>
+					<item guidRef="fe119c5f-1c4d-4624-8068-287ecbe434b2"/>
+					<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+					<item guidRef="8da328db-10f9-4aa0-9d4a-977f7297e917"/>
+					<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+					<item guidRef="e687fa49-f09f-4fd0-b017-75e41a73ac52"/>
+					<item guidRef="28abcae2-54e4-48a8-8df1-b8504f6eb353"/>
+					<item guidRef="d81320f1-06e0-461e-8b15-3b4b5bc048a4"/>
+					<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+					<item guidRef="1375687a-276b-4876-9292-31b961bd2f36"/>
+					<item guidRef="c0cdcbaa-86cd-4e23-b121-3438754bba1d"/>
+				</container>
+				<container modeID="3d56e190-4815-49dd-bd35-0a9a7a5d763b">
+					<item guidRef="492a04bb-c294-4da4-981e-0fe29bdf5ca9"/>
+					<item guidRef="ddb4a4e4-8e1e-4bb6-ab0c-965bf7cba694"/>
+					<item guidRef="fe119c5f-1c4d-4624-8068-287ecbe434b2"/>
+					<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+					<item guidRef="8da328db-10f9-4aa0-9d4a-977f7297e917"/>
+					<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+					<item guidRef="74bd17b4-fb5b-4207-a361-beec1ebfcef4"/>
+					<item guidRef="89227339-77ad-46a0-b855-2029f867f8db"/>
+					<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+					<item guidRef="f5db12fa-4dc0-4878-9131-a72e3e46f231"/>
+					<item guidRef="8255053a-da68-4582-bcb5-05aeec96b723"/>
+				</container>
+			</container>
+		</commandBarData><commandBarData guid="8dd1c11e-7a20-4c92-b635-4b1ef0073493"><container>
+				<events>
+					<onModeSwitch>
+						<action name="default"/>
+					</onModeSwitch>
+				</events>
+				<container modeID="3ae1b504-2286-20aa-4bcb-181519c61ba8">
+					<container modeID="102f1f9a-b306-43aa-8225-016c49c5d628" topBinding="true" leftBinding="true">
+						<item guidRef="bff38bca-491a-4639-b73a-4568a1f7fa9e"/>
+						<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+						<item guidRef="c028582b-67ad-490b-91f6-4d79ddf9e836"/>
+						<item guidRef="bb6ead43-11af-412c-8d1f-876627feee88"/>
+						<item guidRef="875233f2-404f-4e73-9403-5a0c4a2cc475"/>
+						<item guidRef="ef7788f2-e462-4b70-b3c5-532ed3bb66e6"/>
+						<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+						<item guidRef="b7ed1271-ca17-4963-83e0-8779fcd44770"/>
+						<item guidRef="0fdca9a0-2ac7-46fe-88ab-be05ffca3bf1"/>
+					</container>
+					<container modeID="76d73481-9076-44c9-821c-52de9408cce2" topBinding="true" rightBinding="true">
+						<item guidRef="757c5e5e-a9af-4a9b-440c-f30e2a6130bf"/>
+					</container>
+					<container modeID="257de542-17a9-40c0-90a4-2f864e9d7e5c" bottomBinding="true" leftBinding="true">
+						<item guidRef="ba2a76b6-4384-4ed8-b75e-4f179cd51810"/>
+						<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+						<item guidRef="caa240d9-51ef-4c95-9111-fdda86b09927"/>
+					</container>
+				</container>
+				<container modeID="9c765ff2-14c8-f9af-45b0-f97e0bec6d6b">
+					<container modeID="3fb7eed9-9571-ab9d-44af-3b1daca0fc3c" topBinding="true" leftBinding="true">
+						<item guidRef="bff38bca-491a-4639-b73a-4568a1f7fa9e"/>
+						<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+						<item guidRef="c028582b-67ad-490b-91f6-4d79ddf9e836"/>
+						<item guidRef="bb6ead43-11af-412c-8d1f-876627feee88"/>
+					</container>
+					<container modeID="61f39032-92fb-1593-4da3-e5b213d9f79b" topBinding="true" rightBinding="true">
+						<item guidRef="feac20a0-0e6e-698d-45f1-e6ad9207e555"/>
+						<item margin="0,2,0,2" guidRef="0cd3558c-375f-888e-4202-38d0834ee347"/>
+					</container>
+				</container>
+			</container>
+		</commandBarData><commandBarData guid="16b90a40-7207-44ad-a96e-40ba78db1684"><container imageSize="medium">
+				<events>
+					<onModeSwitch>
+						<action name="default"/>
+					</onModeSwitch>
+				</events>
+				<container modeID="7cd972e8-a1f0-4a98-8f34-eed053e8d357">
+					<item guidRef="5a6e2299-1bee-4d18-a1a6-34943f968e04"/>
+					<item guidRef="d6d15fa9-65a6-46c0-bd9a-70c028364478"/>
+					<item guidRef="7b70b671-b7cf-42b4-8ab6-30cf77b7c900"/>
+					<item guidRef="5fc8f7c9-5abb-4e04-b475-574611a26697"/>
+				</container>
+				<container modeID="4c343d81-8824-4721-86b2-25fa8d84818e">
+					<item guidRef="6cde652f-0448-48f2-acb8-c08ac63929b0"/>
+				</container>
+			</container>
+		</commandBarData><commandBarData guid="f6e44c9c-cc9c-4048-af49-9872cf87497d"><container floatWidth="212">
+				<item guidRef="54d5b246-6c5c-4fac-9783-90258a4a18dc"/>
+				<item guidRef="7b1bf25b-cb0c-449c-b241-d3c337fc5143"/>
+				<item guidRef="7df20e15-acef-4e80-8731-4bb622b6e87f"/>
+				<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+				<item guidRef="1cff26b2-eaf1-4a88-92c9-a5c5559d7993"/>
+				<item guidRef="00ee6da6-9ca3-4362-9746-60b8f4728314"/>
+				<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+				<item guidRef="7b90fb1f-daba-4dc7-b03f-883516fe9f70"/>
+				<item guidRef="79d5a4e8-c18f-4222-960c-fc99ed269413"/>
+				<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+				<item guidRef="e9ce1fed-d9f3-4f26-8684-9115406152fe"/>
+				<item guidRef="ae7816d8-3858-44de-b014-96d96e963824"/>
+				<item guidRef="12e247c8-927c-44f2-bcac-7faa1c5a34f0"/>
+				<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+				<item guidRef="42529fe9-865c-4257-9e0c-94d0a4dd7606"/>
+				<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+				<item guidRef="35d938fd-dcfc-4353-a836-b43f1c3f8f0b"/>
+				<item guidRef="193f6856-1fe5-48f9-80b3-208a6360dfd9"/>
+			</container>
+		</commandBarData><commandBarData guid="c2cd29ab-b4ec-4d49-a06f-2dadd797f4ca"><container floatWidth="196">
+				<item guidRef="ddb4a4e4-8e1e-4bb6-ab0c-965bf7cba694"/>
+				<item guidRef="fe119c5f-1c4d-4624-8068-287ecbe434b2"/>
+				<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+				<item guidRef="0f4881ab-e457-450d-88d9-82595d3410a4"/>
+			</container>
+		</commandBarData><commandBarData guid="60f9a2fc-6315-4722-bd66-49d81e1d056b"><container floatWidth="217">
+				<item guidRef="15ba151c-db88-49ba-bda2-ff2556292c6b"/>
+				<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+				<item guidRef="23753e41-0145-4e5b-b6a4-880110ee4330"/>
+				<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+				<item guidRef="b2663e49-1023-443b-a92d-17d0e9481cad"/>
+			</container>
+		</commandBarData><commandBarData guid="0b590c21-4e9f-4922-a28f-72a9767b603d"><container floatWidth="236">
+				<item guidRef="76627162-6147-4aa1-8ca7-e02313cea6e3"/>
+				<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+				<item guidRef="856f3d60-1f10-42d4-885b-c105ebe52c06"/>
+				<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+				<item guidRef="69537a57-5af7-43e1-affd-28d7e1f639d7"/>
+				<item guidRef="f78ccd37-8d42-4e62-a921-16df789a35ff"/>
+				<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+				<item guidRef="e05b11df-b825-47b6-8a6f-aee0b1cb60ee"/>
+				<item guidRef="12c44786-51ae-4fc9-9b7c-9dbd547425fe"/>
+				<item guidRef="65169731-6c99-4eab-b535-b15b05ffc85e"/>
+				<item guidRef="92bf7bf0-a258-45de-bc20-71d20cde95dc"/>
+				<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+				<item guidRef="52d992e1-fac9-45e9-ae9d-b61a52d7b6f9"/>
+				<item guidRef="62dcda24-80dc-4c6b-9014-c47090f9330a"/>
+			</container>
+		</commandBarData><commandBarData guid="5bdc02ec-59f8-4721-81bd-e839819b9036"><container floatWidth="192">
+				<item guidRef="3e266570-4e5f-4c93-9119-87b96368d0a3"/>
+				<item guidRef="bfdebe82-3a7b-4b11-8591-60a71bf4813f"/>
+				<item guidRef="478f7745-6732-47f8-b0c1-ac7a045e8438"/>
+			</container>
+		</commandBarData><commandBarData guid="457dc196-b699-4c02-b38d-7e6485a381b2"><container floatWidth="224">
+				<item guidRef="a2fef466-05b2-4008-8a34-a2fef7f23f67"/>
+				<item guidRef="f5de648c-9647-49bf-99f0-80d1b46944a4"/>
+				<item guidRef="b9b3d5d2-0669-41aa-a9ed-86b43412e98c"/>
+				<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+				<item guidRef="758bf39c-c3fe-4fd5-9c64-69cad901d027"/>
+				<item guidRef="f39723ff-6c71-4fa2-abc2-64d8525c4f65"/>
+				<item guidRef="266435b4-6e53-460f-9fa7-f45be187d400"/>
+				<item guidRef="0f4881ab-e457-450d-88d9-82595d3410a4"/>
+			</container>
+		</commandBarData></commandBars><items><itemData guid="757c5e5e-a9af-4a9b-440c-f30e2a6130bf" icon="guid://b1dfd3c7-fefc-998a-4bcb-e3f0a904a332"/><itemData guid="0fdca9a0-2ac7-46fe-88ab-be05ffca3bf1" icon="guid://c009842f-07eb-45ca-a031-9e4f0c9c678f"/></items></uiConfig>
